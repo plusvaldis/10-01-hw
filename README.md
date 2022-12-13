@@ -41,7 +41,7 @@ virtual_ipaddress {
 
 ```
 
-*Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*
+*Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*  
 keepalived conf node 1  
 ![Скриншот-1 keepalived conf node 1](https://github.com/plusvaldis/10-01-hw/blob/main/img/img0.png)
 
