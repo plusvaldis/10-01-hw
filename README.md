@@ -70,9 +70,9 @@ node 2 ip a]
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
  Вкладываю скриншоты выполнив не wireshark а tcpdump
  
- keepalived enable master
+ keepalived enable master  
 ![Скриншот-1 keepalived enable master](https://github.com/plusvaldis/10-01-hw/blob/main/img/5.png)
 
-keepalived down master
+keepalived down master  
 ![Скриншот-2 keepalived down master](https://github.com/plusvaldis/10-01-hw/blob/main/img/6.png)
  
