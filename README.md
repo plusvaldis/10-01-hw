@@ -42,16 +42,16 @@ virtual_ipaddress {
 ```
 
 *Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*
-keepalived conf node 1
+keepalived conf node 1  
 ![Скриншот-1 keepalived conf node 1](https://github.com/plusvaldis/10-01-hw/blob/main/img/img0.png)
 
-keepalived conf node 2
+keepalived conf node 2  
 ![Скриншот-2 keepalived conf node 2](https://github.com/plusvaldis/10-01-hw/blob/main/img/2.png)
 
-node 1 ip a]
+node 1 ip a  
 ![Скриншот-3 node 1 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/3.png)
 
-node 2 ip a]
+node 2 ip a  
 ![Скриншот-4 node 2 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/4.png)
 
 ## Дополнительные задания (со звездочкой*)
