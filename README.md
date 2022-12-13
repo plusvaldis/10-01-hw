@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "10.1. Keepalived/vrrp" - `Черепанов Владислав`
+# `Домашнее задание к занятию "10.1. Keepalived/vrrp"` - `Черепанов Владислав`
 
 ### Задание 1. 
 
@@ -43,7 +43,7 @@ virtual_ipaddress {
 
 *Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*
 Node 1
-![Скриншот-1 keepalived conf node 1](https://github.com/plusvaldis/9-01-hw/blob/main/img/img0.png)
+![Скриншот-1 keepalived conf node 1](https://github.com/plusvaldis/10-01-hw/blob/main/img/img0.png)
 ![Скриншот-2 keepalived conf node 2](https://github.com/plusvaldis/10-01-hw/blob/main/img/2.png)
 ![Скриншот-3 node 1 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/3.png)
 ![Скриншот-4 node 2 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/4.png)
@@ -63,6 +63,6 @@ Node 1
 
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
  Вкладываю скриншоты выполнив не wireshark а tcpdump
-![Скриншот-1 keepalived enable master](https://github.com/plusvaldis/9-01-hw/blob/main/img/5.png)
+![Скриншот-1 keepalived enable master](https://github.com/plusvaldis/10-01-hw/blob/main/img/5.png)
 ![Скриншот-2 keepalived down master](https://github.com/plusvaldis/10-01-hw/blob/main/img/6.png)
  
