@@ -42,10 +42,16 @@ virtual_ipaddress {
 ```
 
 *Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*
-Node 1
+keepalived conf node 1
 ![Скриншот-1 keepalived conf node 1](https://github.com/plusvaldis/10-01-hw/blob/main/img/img0.png)
+
+keepalived conf node 2
 ![Скриншот-2 keepalived conf node 2](https://github.com/plusvaldis/10-01-hw/blob/main/img/2.png)
+
+node 1 ip a]
 ![Скриншот-3 node 1 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/3.png)
+
+node 2 ip a]
 ![Скриншот-4 node 2 ip a](https://github.com/plusvaldis/10-01-hw/blob/main/img/4.png)
 
 ## Дополнительные задания (со звездочкой*)
@@ -63,6 +69,10 @@ Node 1
 
  *Пришлите скриншот до и после выключения интерфейса из Wireshark.*
  Вкладываю скриншоты выполнив не wireshark а tcpdump
+ 
+ keepalived enable master
 ![Скриншот-1 keepalived enable master](https://github.com/plusvaldis/10-01-hw/blob/main/img/5.png)
+
+keepalived down master
 ![Скриншот-2 keepalived down master](https://github.com/plusvaldis/10-01-hw/blob/main/img/6.png)
  
